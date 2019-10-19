@@ -1,6 +1,6 @@
 <div align="center">
   <figure>
-    <img src="https://www.frootlab.org/images/fig/deet.svg" width=350px
+    <img src="https://www.frootlab.org/images/fig/vivid-db.svg" width=350px
       alt="Vivid DB: Universal Data Mapper">
   </figure>
 </div>
